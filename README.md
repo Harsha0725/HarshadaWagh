@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=1200&color=FFD700&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Harshada+Wagh;AI+Enthusiast;Machine+Learning;Web+Development;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Harshada Wagh</h1>
+<h1 align="center">Harshada Mahesh Wagh</h1>
 
 <h3 align="center">
 Artificial Intelligence & Data Science Student
